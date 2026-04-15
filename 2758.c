@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 2758
+Data        : 09/04/2026
+Nome        : Heitor Felipe de Goes Salina
+Objetivo    : Entrada e saída de números reais.
+Aprendizado : Aprender diversos tipos de saídas para números reais.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()

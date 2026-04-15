@@ -6,7 +6,7 @@ Exercício   : 2758
 Data        : 08/04/2026
 Nome        : Heitor Felipe de Goes Salina
 Objetivo    : Escrever o maior entre 3 números.
-Aprendizado : Como achar o maior número entre 3.
+Aprendizado : Achar o maior número entre 3.
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
